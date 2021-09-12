@@ -39,7 +39,7 @@ GIVEN a CMS-style blog site
 📰[README Page]( https://dionnenoellabarretto.github.io/14-ModelViewController-Tech_Blog-usingExpress.jsHandleBarsMySQLSequelize_and_EncryptedLogin/)
 
 🎥 [Demonstration Video Link - Demonstration]() 
-🎞️ [Gif Demonstartion]()
+🎞️ [Gif Demonstration]()
 
 
 ## Application Functionality Screenshots
