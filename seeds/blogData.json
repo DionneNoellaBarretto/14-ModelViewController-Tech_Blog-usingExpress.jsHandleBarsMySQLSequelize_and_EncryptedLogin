@@ -1,0 +1,15 @@
+
+[
+    {
+        "title": "Example Blog Post",
+        "description": " This is an example blog post"
+    },
+    {
+        "title": "Looking to practice Algorithms ?",
+        "description": "Sign up to any of the following sites: Coderbyte, CodeChef, CodeSignal, Codewars, CSXLearning, Edabit, Exercism, HackerEarth, HackerRank, LeetCode, Pramp etc"
+    },
+    {
+        "title": "How To Build a TechBlog CMS Site Like This?",
+        "description": " Please feel free to check out the readme (https://dionnenoellabarretto.github.io/14-ModelViewController-Tech_Blog-usingExpress.jsHandleBarsMySQLSequelize_and_EncryptedLogin/) for building such a site. Repo Link: https://github.com/DionneNoellaBarretto/14-ModelViewController-Tech_Blog-usingExpress.jsHandleBarsMySQLSequelize_and_EncryptedLogin "
+    }
+]

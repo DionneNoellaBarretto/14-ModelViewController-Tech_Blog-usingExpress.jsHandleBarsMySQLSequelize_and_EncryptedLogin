@@ -1,0 +1,15 @@
+
+[
+    {
+        "comment": "Testing",
+        "blog_id": 1
+    },
+    {
+        "comment": "Interesting!",
+        "blog_id": 2
+    },
+    {
+        "comment": "This is Awesome!",
+        "blog_id": 3
+    }
+]
